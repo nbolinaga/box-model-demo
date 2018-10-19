@@ -1,0 +1,11 @@
+/* Here is how to write comments */
+* {box-sizing: border-box;
+}
+body {color:red;}
+img.one{
+  border: 4px solid Yellow;
+  }
+img.two {
+  border: 4px solid blue;
+  padding: 4px;
+  }
